@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 📊 Poll Results Visualizer
 
@@ -14,3 +15,26 @@ An interactive Data Science application that transforms raw poll data into meani
 - **Visualization:** Plotly Express, WordCloud
 - **Data Engine:** Pandas
 - **Language:** Python 3.11+
+=======
+# 📊 Poll Results Visualizer
+
+An industry-oriented survey data analytics tool that automates the cleaning and visualization of poll responses.
+
+## 🚀 Live Demo Preview
+![Dashboard Preview](images/dashboard_preview.png)
+
+## 🛠️ Features
+- **Automated Data Generation**: Simulates 100+ respondent data.
+- **Dynamic Charts**: Real-time bar charts showing technology preferences.
+- **Interactive Table**: Browse through raw respondent data instantly.
+- **Clean UI**: Built with Streamlit for a professional look.
+
+## 💻 How to Run
+1. Navigate to the project folder.
+2. Install requirements: `pip install -r requirements.txt`
+3. Run the app: `streamlit run app.py`
+
+## ⚙️ Tech Stack
+- **Python** (Pandas, Numpy)
+- **Visualization**: Streamlit, Matplotlib
+>>>>>>> 2ccb084 (Initial commit: Professional Poll Visualizer Dashboard)

@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Lib/
 Scripts/
 pyvenv.cfg
 __pycache__/
 *.pyc
+=======
+venv/
+__pycache__/
+.env
+*.pyc
+.streamlit/config.toml
+>>>>>>> 2ccb084 (Initial commit: Professional Poll Visualizer Dashboard)
